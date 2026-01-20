@@ -1,4 +1,3 @@
-
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -11,7 +10,7 @@ import WebServices from "./pages/WebServices";
 import VideoServices from "./pages/VideoServices";
 import SocialServices from "./pages/SocialServices";
 import NotFound from "./pages/NotFound";
-import Contact from "./pages/contact"
+import Contact from "./pages/Contact";
 import AdsService from "./pages/AdsService";
 import AboutUs from "./pages/AboutUs";
 import Team from "./pages/Team";
